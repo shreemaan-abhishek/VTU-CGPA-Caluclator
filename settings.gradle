@@ -1,0 +1,2 @@
+rootProject.name = "VTU CGPA CALCULATOR"
+include ':app'
